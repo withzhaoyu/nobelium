@@ -15,7 +15,7 @@ const BLOG = {
   sortByDate: false,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: '',
+  socialLink: 'https://baidu.com',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
