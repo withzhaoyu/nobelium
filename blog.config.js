@@ -4,7 +4,7 @@ const BLOG = {
   email: 'withzhaoyu0410@gmail.com',
   link: 'https://joeyzh.vercel.app',
   description: '不强大是因为不够热爱',
-  lang: 'en-US',
+  lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
