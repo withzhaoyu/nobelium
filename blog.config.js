@@ -38,10 +38,10 @@ const BLOG = {
   },
   comment: {
     // support provider: gitalk, utterances, cusdis
-    provider: '', // leave it empty if you don't need any comment plugin
+    provider: 'gittalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: '', // The repository of store comments
-      owner: '',
+      repo: 'https://github.com/withzhaoyu/nobelium', // The repository of store comments
+      owner: 'withzhaoyu',
       admin: [],
       clientID: '',
       clientSecret: '',
