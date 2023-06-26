@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Yのqq 空间✿✿✿',
   author: 'joeyzh',
-  email: '451188360@qq.com',
+  email: 'withzhaoyu0410@gmail.com',
   link: 'https://joeyzh.vercel.app',
   description: '慢慢来',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
